@@ -1,0 +1,26 @@
+.food_main{
+    /* color: red; */
+    /* display: block; */
+    padding: 20px;
+    margin: 20px;
+    
+}
+.food_main h2{
+    font-size: 3.7rem;
+    color: var(--aqua-theme-main-color);
+    margin-bottom: 10px;
+}
+
+.food_main .label{
+    font-size: 25px;
+    color:var(--aqua-theme-main-color) ;
+    /* background-color: blueviolet; */
+    text-align: center;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+
+}
+.food_main button{
+    margin-top: 15px;
+}

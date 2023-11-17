@@ -1,0 +1,44 @@
+.table {
+    
+    text-align: center;
+   
+  }
+  .table h1{
+    color: var(--aqua-theme-main-color);
+    font-size: 3rem;
+    margin-bottom: 0;
+  }
+  .data-table {
+    width: 60%;
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid var(--aqua-theme-main-color);
+  }
+  
+  .data-table th, .data-table td {
+    padding: 12px;
+    font-size: 2rem;
+    border: 1px solid var(--aqua-theme-main-color);
+  }
+ .data-table td {
+  color: aliceblue;
+  }
+  
+  .data-table th {
+    background-color: transparent;
+    color: var(--aqua-theme-main-color);
+  }
+  
+  .foods {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .food {
+    margin-right: 10px;
+    background-color: transparent;
+    /* padding: 5px 10px; */
+    border-radius: 5px;
+    margin-bottom: 5px;
+  }
+  

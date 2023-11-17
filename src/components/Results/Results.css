@@ -1,0 +1,21 @@
+
+.results p {
+    font-size: 3.25rem;
+  }
+  
+  .results__wrapper {
+    display: flex;
+    margin-top: 1rem;
+    flex-direction: column;
+  
+  }
+ 
+  .results__emoji {
+ 
+    align-items: center;
+    text-align: center;
+    color: var(--aqua-theme-main-color);
+  }
+  
+ 
+  
